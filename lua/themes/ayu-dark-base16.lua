@@ -9,10 +9,10 @@ return {
    base07 = "212733",
    base08 = "FF7733",
    base09 = "FFEE99",
-   base0A = "E6B673",
+   base0A = "36A3D9",
    base0B = "B8CC52",
    base0C = "E6B673",
-   base0D = "36A3D9",
+   base0D = "E6B673",
    base0E = "FFb454",
    base0F = "E6B673",
 }
