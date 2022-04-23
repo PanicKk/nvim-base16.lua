@@ -1,5 +1,5 @@
 return {
-   base00 = "181f21",
+   base00 = "171a1f",
    base01 = "22292b",
    base02 = "363d3f",
    base03 = "404749",
